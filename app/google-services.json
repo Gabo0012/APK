@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1060908461847",
+    "project_id": "actividad-54d34",
+    "storage_bucket": "actividad-54d34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060908461847:android:3efadf990603ff9c511152",
+        "android_client_info": {
+          "package_name": "com.example.actividad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqmHmpf7IO9D1gZR6q49cekvHZ7IR_RKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
